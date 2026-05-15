@@ -136,6 +136,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+<img width="1280" height="2856" alt="Screenshot_20260515_140205" src="https://github.com/user-attachments/assets/d12ca252-bac7-47d8-9493-bb9cdf58c366" />
+<img width="1280" height="2856" alt="Screenshot_20260515_140202" src="https://github.com/user-attachments/assets/dde21d98-8d07-42d8-bff3-5c926f8cc5ea" />
+<img width="1280" height="2856" alt="Screenshot_20260515_140206" src="https://github.com/user-attachments/assets/7146bab3-180c-4c0f-9fc3-0359e6e90611" />
 
 
 
